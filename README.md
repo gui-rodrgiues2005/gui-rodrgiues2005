@@ -1,5 +1,5 @@
 <h2 align="left">Guilherme Rodrigues Costa</h2>
-<h3>Desenvolvedor Full Stack / Front-End Developer</h3>
+<h3>Desenvolvedor Full Stack</h3>
 
 ###
 
