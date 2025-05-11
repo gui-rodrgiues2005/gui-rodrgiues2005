@@ -1,8 +1,8 @@
 <h2 align="left">Guilherme Rodrigues Costa</h2>
-<h3 align="left">💻 Desenvolvedor Full Stack</h3>
+<h3 align="left">💻 Desenvolvedor Full Stack Júnior</h3>
 
 <p>
-Sou um desenvolvedor full stack com experiência em projetos reais, tanto acadêmicos quanto para clientes. Trabalho principalmente com C# .NET no back-end e React no front-end, e tenho conhecimento sólido em bancos de dados relacionais. Já desenvolvi sistemas de gestão interna, APIs RESTful, autenticação JWT, integrações com Stripe e Printful, além de ter conhecimentos em Python.
+Tenho 20 anos, estou cursando o 5º período de Ciência da Computação e atuo como desenvolvedor full stack júnior. Minhas principais ferramentas são C# .NET e React, com mais de 3 anos de experiência em projetos pessoais e freelances. Estou em busca de oportunidades para ingressar no mercado de trabalho.
 </p>
 
 ---
