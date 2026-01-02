@@ -1,5 +1,5 @@
 <h2 align="left">Guilherme Rodrigues Costa</h2>
-<h3 align="left">💻 Desenvolvedor Full Stack Júnior</h3>
+<h3 align="left">💻 Desenvolvedor web</h3>
 
 <p>
 Tenho 20 anos, estou cursando o 6º período de Ciência da Computação e atuo como desenvolvedor full stack júnior. Minhas principais ferramentas são C# .NET e React, com mais de 3 anos de experiência em projetos pessoais e freelances. Estou em busca de oportunidades para ingressar no mercado de trabalho.
