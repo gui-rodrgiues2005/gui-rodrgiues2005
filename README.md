@@ -2,7 +2,7 @@
 <h3 align="left">💻 Desenvolvedor web</h3>
 
 <p>
-Tenho 20 anos, estou cursando o 7º período de Ciência da Computação e atuo como desenvolvedor web júnior. Minhas principais ferramentas são C# .NET e React, com mais de 4 anos de experiência em projetos pessoais e freelances. Estou em busca de oportunidades para ingressar no mercado de trabalho.
+Tenho 21 anos, estou cursando o 7º período de Ciência da Computação e atuo como desenvolvedor web júnior. Minhas principais ferramentas são C# .NET e React, com mais de 4 anos de experiência em projetos pessoais e freelances. Estou em busca de oportunidades para ingressar no mercado de trabalho.
 </p>
 
 ---
